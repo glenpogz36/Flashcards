@@ -1,0 +1,12 @@
+.back {
+  display: none;
+}
+
+.container {
+  text-align: center;
+}
+
+#Title {
+  font-size: 100px;
+  text-align: center;
+}
